@@ -1,0 +1,9 @@
+html, html body .main { width: 100%; height: 100%; }
+html body, html body .main body { margin: 0; padding: 0; }
+html body header, html body .main body header { width: 100%; font-size: 0.8rem; color: #fff; text-align: center; line-height: 2rem; height: 2rem; background-color: mediumseagreen; }
+html body .main .main-top { width: 100%; height: 2rem; padding-left: 0.4rem; padding-right: 0.4rem; box-sizing: border-box; line-height: 2rem; border-bottom: 1px solid darkgrey; }
+html body .main .main-top .mt-l { float: left; }
+html body .main .main-top .mt_r { float: right; color: #333; text-decoration: none; font-size: 0.8rem; }
+html body .main .main-top .mt_r span { display: inline-block; width: 3.2rem; height: 1.2rem; border-radius: 0.6rem; background-color: gainsboro; line-height: 1.2rem; text-align: center; color: mediumseagreen; }
+
+/*# sourceMappingURL=new_file.css.map */

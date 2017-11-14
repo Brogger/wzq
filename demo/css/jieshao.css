@@ -1,0 +1,25 @@
+* { margin: 0; padding: 0; }
+
+a { text-decoration: none; }
+
+html { width: 100%; height: 100%; }
+html body header { height: 1.88rem; background-color: #148ad2; width: 100%; position: relative; }
+html body header ul { width: 100%; list-style: none; padding-left: 0; position: absolute; height: 1.88rem; line-height: 1.88rem; }
+html body header ul li { float: left; width: 33.3%; box-sizing: border-box; }
+html body header ul li a img { width: 0.84rem; height: 0.92rem; display: inline-block; }
+html body header ul li:nth-child(1) { padding-left: 0.6rem; }
+html body header ul li:nth-child(2) { text-align: center; }
+html body header ul li:nth-child(3) { text-align: right; padding-right: 0.6rem; }
+html body nav { width: 100%; height: 3.4rem; background-color: #1183c9; display: block; line-height: 3.4rem; }
+html body nav a { width: 32%; display: inline-block; box-sizing: border-box; }
+html body nav a:nth-child(1) { padding-left: 1.2rem; }
+html body nav a:nth-child(2) { text-align: center; }
+html body nav a:nth-child(3) { text-align: right; }
+html body nav a span { display: inline-block; color: #FFFFFF; width: 3.92rem; height: 1.4rem; line-height: 1.4rem; text-align: center; font-size: 0.48rem; }
+html body nav a .bk { border: 1px solid #5aa8d9; border-radius: 0.5rem; }
+html body .main { width: 100%; }
+html body .main ul { list-style: none; width: 100%; }
+html body .main ul li { width: 7.5rem; height: 6.92rem; float: left; }
+html body .main ul li a img { width: 100%; display: block; outline: none; }
+
+/*# sourceMappingURL=jieshao.css.map */

@@ -1,0 +1,24 @@
+$sc:25;
+html{
+    width: 100%;
+    height: 100%;
+    body{
+    margin: 0;padding: 0;
+    header{
+        width: 100%;font-size:20/$sc+rem;color: #fff;text-align: center;line-height:50/$sc+rem;height: 50/$sc+rem;background-color: mediumseagreen;
+    }
+    .main{
+        @extend html;
+       .main-top{
+            width: 100%;height:50/$sc+rem;padding-left: 10/$sc+rem;padding-right:10/$sc+rem;box-sizing: border-box;line-height:50/$sc+rem;;border-bottom: 1px solid darkgrey;
+        .mt-l{float: left;}
+        .mt_r{
+            float: right;color: #333;text-decoration: none;font-size: 20/$sc+rem;
+            span{display: inline-block;width:80/$sc+rem;height: 30/$sc+rem;border-radius:15/$sc+rem;background-color: gainsboro;line-height: 30/$sc+rem;text-align: center;color: mediumseagreen;}
+        }   
+       } 
+    }
+} 
+}
+
+
